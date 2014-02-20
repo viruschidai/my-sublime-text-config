@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"CoffeeCompile",
+		"CoffeeScript",
+		"HTML2Jade",
+		"Jade",
+		"JSON Reindent",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"Stylus"
+	]
+}
